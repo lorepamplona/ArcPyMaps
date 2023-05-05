@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pt"><Esri><CreaDate>20230427</CreaDate><CreaTime>17133300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\PointToRaster" Date="20230427" Time="171333">PointToRaster in_memory/temp_points POINT_Z "C:\Users\CHD\Documents\ArcPyProject\Output XYZ\Tamandua_R5_NR.tif" Mean NONE 14 BUILD</Process></lineage></DataProperties></Esri></metadata>
